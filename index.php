@@ -1,4 +1,4 @@
 <?php
 
 phpinfo();
-asdf
+var_dump($_SERVER);
